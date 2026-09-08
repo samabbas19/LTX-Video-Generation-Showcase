@@ -1,12 +1,12 @@
 # Demonstration media
 
-Full supplied 60-second output re-encoded as H.264/AAC with source metadata omitted. GIF: first 8 s, 320 px wide, 6 FPS, silent. Audio remains available in the MP4.
+Both the GIF and MP4 show the complete 60-second main demo. GIF: 240 px wide, 5 FPS, silent. The H.264/AAC MP4 retains audio; source metadata is omitted.
 
-- [Automatic preview](../assets/preview.gif)
+- [Full-length automatic demo](../assets/preview.gif)
 - [MP4 demo](../assets/demo.mp4)
 - [Representative still](../assets/overview.jpg)
 
-The preview is visible immediately in the README. MP4 playback behavior depends on the GitHub viewer; downloading the file provides the full clip. Source metadata is omitted from exported videos.
+The full published main demo plays directly in the README as a silent, infinitely looping GIF. The MP4 remains available for higher-quality playback and original audio where present. Source metadata is omitted from exported videos.
 
 AI-generated/synthetic video showcase based on the supplied project context. Depicted products, people, brands, and claims are not independently verified or endorsed. No model weights or fabricated workflow files are distributed.
 
