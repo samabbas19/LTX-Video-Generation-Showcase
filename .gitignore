@@ -1,0 +1,18 @@
+# Default deny: only reviewed project files are eligible for staging.
+/*
+!/.gitignore
+!/assets/
+/assets/*
+!/docs/
+/docs/*
+!/results/
+/results/*
+!/NOTICE
+!/README.md
+!/assets/architecture.svg
+!/assets/demo.mp4
+!/assets/overview.jpg
+!/assets/preview.gif
+!/docs/architecture.md
+!/docs/media.md
+!/results/metrics.md
